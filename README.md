@@ -11,4 +11,4 @@
 
         $ ./gradlew bootRun
 
-1. Visit http://localhost:8080
+1. Visit http://localhost:8080/employees/
