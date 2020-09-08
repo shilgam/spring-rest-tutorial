@@ -1,5 +1,7 @@
 # spring-test-tutorial
 
+[![Build Status](https://travis-ci.com/shilgam/spring-rest-tutorial.svg?branch=master)](https://travis-ci.com/shilgam/spring-rest-tutorial)
+
 ## Prerequisites
 * Java 8
 
@@ -27,5 +29,5 @@
 ### Run the test suite
 
 1. Run unit and integration tests:
-   
+
         $ ./gradlew test
