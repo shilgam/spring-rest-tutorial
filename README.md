@@ -22,3 +22,10 @@
         $ curl -X PUT localhost:8080/employees/3 -H 'Content-type:application/json' -d '{"name": "Samwise Gamgee", "role": "ring bearer"}'
 
         $ curl -X DELETE localhost:8080/employees/3
+
+
+### Run the test suite
+
+1. Run unit and integration tests:
+   
+        $ ./gradlew test
